@@ -1,3 +1,6 @@
+*Adding the News page feature to the web app
+
+
 gymnasium
 =========
 
